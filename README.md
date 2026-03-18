@@ -52,6 +52,8 @@ The <strong>Admin Panel</strong> allows complete control over events, categories
 <h1>What Changes Have Been Made</h1>
 <ul>
     <li>Integrated <strong>MongoDB Atlas</strong> as the cloud database.</li>
+    <li>Added the MongoDB database. The database file is provided in the project folder as src/Backend/Database allcollection.json.</li>
+    <li>Updated environment configuration for MongoDB connection.</li>
     <li>Rename <strong>.env.example</strong> to <strong>.env</strong> and update the environment variables.</li>
     <li>Installed all required project dependencies using <strong>npm install</strong>.</li>
 </ul>
@@ -67,8 +69,11 @@ The <strong>Admin Panel</strong> allows complete control over events, categories
 
 <h1>Database Setup</h1>
 <ul>
-    <li>The project uses <strong>MongoDB Atlas</strong> cloud database.</li>
-    <li>Add the MongoDB connection string in the <strong>.env</strong> file.</li>
+    <li>Open MongoDB compass.</li>
+    <li>Create a new database (example: mufest).</li>
+    <li>Import the all files allcollections.json.</li>
+    <li>Ensure MongoDB service is running.</li>
+    <li>Configure MongoDB connection details in the .env file.</li>
     <li>The database collections will be created automatically when the application runs.</li>
 </ul>
 

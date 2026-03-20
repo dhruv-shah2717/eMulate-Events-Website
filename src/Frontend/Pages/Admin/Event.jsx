@@ -549,7 +549,7 @@ const Event = () => {
                                     </td>
                                 </tr>
                             )}
-                    </tbody>
+                        </tbody>
                     </table>
                 </div>
             </div>

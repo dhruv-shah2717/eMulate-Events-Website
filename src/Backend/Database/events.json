@@ -1,0 +1,1316 @@
+[
+  {
+    "_id": "69809f9882bfcce6f7ba6802",
+    "Name": "Ad-Mad Show",
+    "Price": 100,
+    "Location": "MB303, MA202",
+    "Time": "10:00 AM, 6:00 AM",
+    "Day": "4,5,6 Feb",
+    "Evn_Cordinator": "Mehul Shah, Mitali Shah",
+    "Evn_Co_Number": "1234567890, 0987654321",
+    "Stu_Cordinator": "Mahek Solanki, Krisha Javiya",
+    "Stu_Co_Number": "1234567890, 0987654321",
+    "Description": "📍 About the Event\n\nThe Code Storm event is organized at\nMarwadi University\nas part of their annual tech-cultural fest called eMUlate (MUFest).\n\n📅 It is usually held during the fest (for example: 4–6 February 2026).\n\n💻 What is “Code Storm”?\n\nCode Storm is a technical coding competition where students:\n\nSolve programming problems\n\nCompete with other participants\n\nTest their logic, speed, and coding skills\n\nWork under time pressure\n\nIt is similar to:\n\nCompetitive programming contest\n\nHackathon-style mini coding challenge\n\n⚙️ Main Features\n\n⏱️ Time-based challenge (limited time to solve problems)\n\n🧠 Logic & algorithm-based questions\n\n💻 Can include languages like C, C++, Java, Python\n\n🏆 Winners are selected based on:\n\nCorrect solutions\n\nSpeed of submission\n\n🎯 Purpose of Code Storm\n\nImprove coding & problem-solving skills\n\nEncourage competitive programming\n\nPrepare students for placements & coding interviews\n\nPromote technical learning beyond classroom",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba6789",
+      "Name": "Technical"
+    },
+    "Group": "Solo",
+    "Seats": 10,
+    "updatedAt": "2026-03-21T08:39:49.045Z"
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6814",
+    "Name": "Design Mania",
+    "Price": 0,
+    "Location": "Design Studio",
+    "Time": "01:00 PM",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "000",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "000",
+    "Description": "Creative Design",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba6789",
+      "Name": "Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6819",
+    "Name": "Nursing Quiz Ball",
+    "Price": 0,
+    "Location": "Nursing Block",
+    "Time": "12:00 PM",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "000",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "000",
+    "Description": "Medical Quiz",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba6789",
+      "Name": "Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba683d",
+    "Name": "Darts Championship",
+    "Price": 50,
+    "Location": "Games Zone",
+    "Time": "TBD",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "Dart throwing",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678b",
+      "Name": "Fun-Event"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba680a",
+    "Name": "Byte Hunt Iot Trail",
+    "Price": 0,
+    "Location": "IoT Lab",
+    "Time": "10:00 AM",
+    "Day": "Day 2",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "000",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "000",
+    "Description": "IoT Treasure Hunt",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba6789",
+      "Name": "Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba681a",
+    "Name": "Pharma Quiz",
+    "Price": 0,
+    "Location": "Pharmacy Lab",
+    "Time": "10:00 AM",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "000",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "000",
+    "Description": "Pharmacy Competition",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba6789",
+      "Name": "Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6822",
+    "Name": "Ai Master Showdown 2.0",
+    "Price": 0,
+    "Location": "AV Room",
+    "Time": "TBD",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "AI Masters",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678a",
+      "Name": "Non-Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba682e",
+    "Name": "Ipl Auction",
+    "Price": 100,
+    "Location": "Seminar Hall",
+    "Time": "TBD",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "Cricket Bidding",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678a",
+      "Name": "Non-Technical"
+    },
+    "Group": "Squad",
+    "Seats": 4
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6830",
+    "Name": "Lens And Motion Mixer",
+    "Price": 0,
+    "Location": "TBD",
+    "Time": "TBD",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "Photography/Video",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678a",
+      "Name": "Non-Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6832",
+    "Name": "Movie Mania",
+    "Price": 0,
+    "Location": "TBD",
+    "Time": "TBD",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "Cinema Quiz",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678a",
+      "Name": "Non-Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6837",
+    "Name": "Reverse Engineering (Meme War)",
+    "Price": 0,
+    "Location": "TBD",
+    "Time": "TBD",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "Meme Competition",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678a",
+      "Name": "Non-Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6803",
+    "Name": "Agar Art",
+    "Price": 0,
+    "Location": "Lab",
+    "Time": "11:00 AM",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "000",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "000",
+    "Description": "Microbiology Art",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba6789",
+      "Name": "Technical"
+    },
+    "Group": "Solo",
+    "Seats": 0
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6816",
+    "Name": "Iks-Visualtech Digital Poster",
+    "Price": 0,
+    "Location": "Computer Lab",
+    "Time": "10:00 AM",
+    "Day": "Day 2",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "000",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "000",
+    "Description": "Digital Art",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba6789",
+      "Name": "Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba681c",
+    "Name": "Pick Your Luck",
+    "Price": 0,
+    "Location": "Room 5",
+    "Time": "10:00 AM",
+    "Day": "Day 2",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "000",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "000",
+    "Description": "Luck Based Tech",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba6789",
+      "Name": "Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6821",
+    "Name": "Tech Hunt",
+    "Price": 0,
+    "Location": "Entire Campus",
+    "Time": "10:00 AM",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "000",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "000",
+    "Description": "Tech Treasure Hunt",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba6789",
+      "Name": "Technical"
+    },
+    "Group": "Squad",
+    "Seats": 3
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6828",
+    "Name": "Chef'S Corner",
+    "Price": 100,
+    "Location": "Canteen Area",
+    "Time": "TBD",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "Cooking competition",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678a",
+      "Name": "Non-Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6842",
+    "Name": "Hit The Glass",
+    "Price": 30,
+    "Location": "TBD",
+    "Time": "TBD",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "Target Game",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678b",
+      "Name": "Fun-Event"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6812",
+    "Name": "Code Storm",
+    "Price": 0,
+    "Location": "Lab 6",
+    "Time": "10:00 AM",
+    "Day": "Day 2",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "000",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "000",
+    "Description": "Hardcore Coding",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba6789",
+      "Name": "Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6827",
+    "Name": "Brain Blast",
+    "Price": 0,
+    "Location": "TBD",
+    "Time": "TBD",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "Quiz Event",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678a",
+      "Name": "Non-Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6833",
+    "Name": "Mysterious Minute",
+    "Price": 0,
+    "Location": "TBD",
+    "Time": "TBD",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "Secret Tasks",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678a",
+      "Name": "Non-Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6810",
+    "Name": "Code Jumanji",
+    "Price": 0,
+    "Location": "IT Hall",
+    "Time": "10:00 AM",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "000",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "000",
+    "Description": "Coding Jungle",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba6789",
+      "Name": "Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6811",
+    "Name": "Code Run",
+    "Price": 0,
+    "Location": "Lab 5",
+    "Time": "03:00 PM",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "000",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "000",
+    "Description": "Programming Sprint",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba6789",
+      "Name": "Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6826",
+    "Name": "Be Creative- Utilize Waste",
+    "Price": 0,
+    "Location": "TBD",
+    "Time": "TBD",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "Waste to Wealth",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678a",
+      "Name": "Non-Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6829",
+    "Name": "Cultural Dance",
+    "Price": 200,
+    "Location": "Main Stage",
+    "Time": "TBD",
+    "Day": "Day 2",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "Dance Performance",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678a",
+      "Name": "Non-Technical"
+    },
+    "Group": "Squad",
+    "Seats": 8
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba682b",
+    "Name": "Fashion Show- Audition",
+    "Price": 500,
+    "Location": "Auditorium",
+    "Time": "Morning",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "Ramp walk audition",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678a",
+      "Name": "Non-Technical"
+    },
+    "Group": "Squad",
+    "Seats": 10
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6807",
+    "Name": "Brainstorm: The Code Combat",
+    "Price": 0,
+    "Location": "IT Lab 2",
+    "Time": "10:00 AM",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "000",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "000",
+    "Description": "Coding Battle",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba6789",
+      "Name": "Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba681d",
+    "Name": "Popsicle Bridge",
+    "Price": 0,
+    "Location": "Civil Hall",
+    "Time": "10:00 AM",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "000",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "000",
+    "Description": "Build a Bridge",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba6789",
+      "Name": "Technical"
+    },
+    "Group": "Squad",
+    "Seats": 3
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba682c",
+    "Name": "Flash Challenges",
+    "Price": 0,
+    "Location": "TBD",
+    "Time": "TBD",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "Instant Games",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678a",
+      "Name": "Non-Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba683c",
+    "Name": "Treasure Hunt",
+    "Price": 100,
+    "Location": "Campus",
+    "Time": "TBD",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "Clue solving hunt",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678a",
+      "Name": "Non-Technical"
+    },
+    "Group": "Squad",
+    "Seats": 4
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba683f",
+    "Name": "Draw On My Back Challenge",
+    "Price": 0,
+    "Location": "TBD",
+    "Time": "TBD",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "Funny Drawing Game",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678b",
+      "Name": "Fun-Event"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba680c",
+    "Name": "ChatGenAI",
+    "Price": 0,
+    "Location": "Computer Center",
+    "Time": "11:00 AM",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "000",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "000",
+    "Description": "AI Prompting Event",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba6789",
+      "Name": "Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba680e",
+    "Name": "Chemquest Chronicles",
+    "Price": 0,
+    "Location": "Main Hall",
+    "Time": "10:00 AM",
+    "Day": "Day 2",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "000",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "000",
+    "Description": "Chemistry Hunt",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba6789",
+      "Name": "Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6817",
+    "Name": "Jnana-Tech 2026 Quiz",
+    "Price": 0,
+    "Location": "Auditorium",
+    "Time": "10:00 AM",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "000",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "000",
+    "Description": "Tech Quiz",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba6789",
+      "Name": "Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba681f",
+    "Name": "Reviving Court Room Drama",
+    "Price": 0,
+    "Location": "Law Block",
+    "Time": "11:00 AM",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "000",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "000",
+    "Description": "Mock Court",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba6789",
+      "Name": "Technical"
+    },
+    "Group": "Squad",
+    "Seats": 5
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6823",
+    "Name": "Alpha Battles",
+    "Price": 0,
+    "Location": "TBD",
+    "Time": "TBD",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "Strategy Battle",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678a",
+      "Name": "Non-Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6831",
+    "Name": "Liveframe- Documentary Making",
+    "Price": 0,
+    "Location": "TBD",
+    "Time": "TBD",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "Documentary",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678a",
+      "Name": "Non-Technical"
+    },
+    "Group": "Squad",
+    "Seats": 3
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6809",
+    "Name": "Business Plan",
+    "Price": 0,
+    "Location": "MBA Block",
+    "Time": "01:00 PM",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "000",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "000",
+    "Description": "Startup Pitching",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba6789",
+      "Name": "Technical"
+    },
+    "Group": "Squad",
+    "Seats": 2
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba681e",
+    "Name": "Ppt Presentation",
+    "Price": 0,
+    "Location": "Seminar Hall",
+    "Time": "10:00 AM",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "000",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "000",
+    "Description": "Presentation Skills",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba6789",
+      "Name": "Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6843",
+    "Name": "Luck By Chance",
+    "Price": 0,
+    "Location": "TBD",
+    "Time": "TBD",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "Raffle/Luck Game",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678b",
+      "Name": "Fun-Event"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6815",
+    "Name": "Farm Treasure Hunt",
+    "Price": 0,
+    "Location": "Agriculture Dept",
+    "Time": "09:00 AM",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "000",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "000",
+    "Description": "Agro Hunt",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba6789",
+      "Name": "Technical"
+    },
+    "Group": "Squad",
+    "Seats": 3
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba681b",
+    "Name": "Physio Charades",
+    "Price": 0,
+    "Location": "Physio Hall",
+    "Time": "02:00 PM",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "000",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "000",
+    "Description": "Physical Charades",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba6789",
+      "Name": "Technical"
+    },
+    "Group": "Squad",
+    "Seats": 2
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6835",
+    "Name": "Reel Knockout",
+    "Price": 0,
+    "Location": "TBD",
+    "Time": "TBD",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "Instagram Reel Battle",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678a",
+      "Name": "Non-Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6839",
+    "Name": "Saptaraga",
+    "Price": 0,
+    "Location": "Stage",
+    "Time": "TBD",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "Cultural Music",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678a",
+      "Name": "Non-Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6840",
+    "Name": "Extempore",
+    "Price": 0,
+    "Location": "TBD",
+    "Time": "TBD",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "On the spot speaking",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678b",
+      "Name": "Fun-Event"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6841",
+    "Name": "Fun Blast",
+    "Price": 0,
+    "Location": "TBD",
+    "Time": "TBD",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "Blast of Fun",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678b",
+      "Name": "Fun-Event"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6844",
+    "Name": "Out Of The Box",
+    "Price": 0,
+    "Location": "TBD",
+    "Time": "TBD",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "Surprise Tasks",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678b",
+      "Name": "Fun-Event"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6846",
+    "Name": "The Risky Roll",
+    "Price": 0,
+    "Location": "TBD",
+    "Time": "TBD",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "Dice Game",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678b",
+      "Name": "Fun-Event"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6805",
+    "Name": "Bid To Win",
+    "Price": 98,
+    "Location": "Room 101",
+    "Time": "12:00 PM",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "000",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "000",
+    "Description": "Bidding Event",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba6789",
+      "Name": "Technical"
+    },
+    "Group": "Duo",
+    "Seats": 3,
+    "updatedAt": "2026-03-20T15:48:16.337Z"
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6808",
+    "Name": "Bridge Designer",
+    "Price": 0,
+    "Location": "Civil Hall",
+    "Time": "11:00 AM",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "000",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "000",
+    "Description": "Structural Design",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba6789",
+      "Name": "Technical"
+    },
+    "Group": "Squad",
+    "Seats": 3
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba683b",
+    "Name": "Thinkathon",
+    "Price": 0,
+    "Location": "TBD",
+    "Time": "TBD",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "Idea Generation",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678a",
+      "Name": "Non-Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba683e",
+    "Name": "Dhammal Gali",
+    "Price": 20,
+    "Location": "Outer Street",
+    "Time": "Evening",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "Fun Street Activity",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678b",
+      "Name": "Fun-Event"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6845",
+    "Name": "Snakes And Ladders",
+    "Price": 20,
+    "Location": "Games Area",
+    "Time": "TBD",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "Human Snakes & Ladders",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678b",
+      "Name": "Fun-Event"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6820",
+    "Name": "Spell-O-Mania",
+    "Price": 0,
+    "Location": "Main Hall",
+    "Time": "01:00 PM",
+    "Day": "Day 2",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "000",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "000",
+    "Description": "Spelling Bee",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba6789",
+      "Name": "Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6824",
+    "Name": "Art Exhibition",
+    "Price": 0,
+    "Location": "Art Hall",
+    "Time": "TBD",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "Creative Showcase",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678a",
+      "Name": "Non-Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba682a",
+    "Name": "Fashion Show - Final",
+    "Price": 5000,
+    "Location": "Main Stage",
+    "Time": "Night",
+    "Day": "Day 2",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "Fashion Grand Finale",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678a",
+      "Name": "Non-Technical"
+    },
+    "Group": "Squad",
+    "Seats": 10
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6804",
+    "Name": "Atv",
+    "Price": 0,
+    "Location": "Ground",
+    "Time": "10:00 AM",
+    "Day": "Day 2",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "000",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "000",
+    "Description": "All Terrain Vehicle",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba6789",
+      "Name": "Technical"
+    },
+    "Group": "Duo",
+    "Seats": 0,
+    "updatedAt": "2026-02-13T12:13:10.903Z"
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6813",
+    "Name": "Codon Bingo",
+    "Price": 0,
+    "Location": "Bio Lab",
+    "Time": "11:00 AM",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "000",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "000",
+    "Description": "Biotech Game",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba6789",
+      "Name": "Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6825",
+    "Name": "Back To Bachpan",
+    "Price": 0,
+    "Location": "Garden",
+    "Time": "TBD",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "Nostalgic Games",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678a",
+      "Name": "Non-Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6836",
+    "Name": "Reels Mania",
+    "Price": 0,
+    "Location": "TBD",
+    "Time": "TBD",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "Content Creation",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678a",
+      "Name": "Non-Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba680d",
+    "Name": "ChemE IQ Challenge",
+    "Price": 0,
+    "Location": "Chemical Lab",
+    "Time": "01:30 PM",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "000",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "000",
+    "Description": "Chemical Engineering Quiz",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba6789",
+      "Name": "Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6818",
+    "Name": "Mechanical Escape",
+    "Price": 0,
+    "Location": "Mech Workshop",
+    "Time": "11:00 AM",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "000",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "000",
+    "Description": "Mechanical Escape Room",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba6789",
+      "Name": "Technical"
+    },
+    "Group": "Squad",
+    "Seats": 2
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba682d",
+    "Name": "Fun With Numbers",
+    "Price": 0,
+    "Location": "TBD",
+    "Time": "TBD",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "Math Fun",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678a",
+      "Name": "Non-Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6806",
+    "Name": "Blind Code",
+    "Price": 0,
+    "Location": "IT Lab",
+    "Time": "02:00 PM",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "000",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "000",
+    "Description": "Coding without looking",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba6789",
+      "Name": "Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6834",
+    "Name": "Pictionary",
+    "Price": 0,
+    "Location": "TBD",
+    "Time": "TBD",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "Drawing Guess",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678a",
+      "Name": "Non-Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba683a",
+    "Name": "Scavenger Hunt",
+    "Price": 0,
+    "Location": "Campus",
+    "Time": "TBD",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "Find the Items",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678a",
+      "Name": "Non-Technical"
+    },
+    "Group": "Squad",
+    "Seats": 3
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba680b",
+    "Name": "Cad Challenge",
+    "Price": 0,
+    "Location": "Mechanical Lab",
+    "Time": "10:30 AM",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "000",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "000",
+    "Description": "CAD Design",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba6789",
+      "Name": "Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba680f",
+    "Name": "Circuit Quest",
+    "Price": 0,
+    "Location": "Electrical Lab",
+    "Time": "12:00 PM",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "000",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "000",
+    "Description": "Circuit Building",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba6789",
+      "Name": "Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba682f",
+    "Name": "Jam- Just A Minute",
+    "Price": 0,
+    "Location": "TBD",
+    "Time": "TBD",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "Speaking Challenge",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678a",
+      "Name": "Non-Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  },
+  {
+    "_id": "69809f9882bfcce6f7ba6838",
+    "Name": "Sab Khelo Sab Jeeto",
+    "Price": 0,
+    "Location": "TBD",
+    "Time": "TBD",
+    "Day": "Day 1",
+    "Evn_Cordinator": "TBD",
+    "Evn_Co_Number": "0",
+    "Stu_Cordinator": "TBD",
+    "Stu_Co_Number": "0",
+    "Description": "General Fun",
+    "Cat_Id": {
+      "_id": "69809cc482bfcce6f7ba678a",
+      "Name": "Non-Technical"
+    },
+    "Group": "Solo",
+    "Seats": 1
+  }
+]

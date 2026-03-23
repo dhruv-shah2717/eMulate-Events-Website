@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "69809cc482bfcce6f7ba6789"
+  },
+  "Name": "Technical",
+  "createdAt": {
+    "$date": "2026-03-20T04:54:32.930Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-20T04:54:32.930Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69809cc482bfcce6f7ba678a"
+  },
+  "Name": "Non-Technical",
+  "createdAt": {
+    "$date": "2026-03-20T04:58:01.549Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-20T04:58:01.549Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69809cc482bfcce6f7ba678b"
+  },
+  "Name": "Fun-Event",
+  "createdAt": {
+    "$date": "2026-03-20T04:59:28.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-20T04:59:28.388Z"
+  },
+  "__v": 0
+}]
